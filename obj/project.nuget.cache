@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "D+Rznk2/E0Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tocha\\OneDrive - SENAC-SC\\JOV-PROG-SENAC\\UC1-DesenvolverSistemasdeInformação-Renan\\Form\\Treino\\Form_Mvc_List_Tarefa\\Form_Mvc_List_Taref.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tocha\\.nuget\\packages\\mysqlconnector\\2.2.5\\mysqlconnector.2.2.5.nupkg.sha512",
+    "C:\\Users\\tocha\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.5\\microsoft.netcore.app.ref.8.0.5.nupkg.sha512",
+    "C:\\Users\\tocha\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.5\\microsoft.windowsdesktop.app.ref.8.0.5.nupkg.sha512",
+    "C:\\Users\\tocha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.5\\microsoft.aspnetcore.app.ref.8.0.5.nupkg.sha512",
+    "C:\\Users\\tocha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.5\\microsoft.netcore.app.host.win-x64.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
